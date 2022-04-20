@@ -7,7 +7,7 @@ export default function seo(data = {}) {
   data.title = data.title || ui_config.title || "libDrive";
   data.description =
     data.description ||
-    "libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.";
+    "Welcome to Lrone, the one-stop solution to all your media needs. If you need to request anything, contact @RafeeDaBoy";
   data.image = data.image || ui_config.icon || "/images/icons/icon-512x512.png";
   data.type = data.type || "website";
   document.title = data.title || ui_config.title;
