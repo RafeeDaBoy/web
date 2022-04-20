@@ -31,10 +31,10 @@ class Footer extends Component {
           </a>
           <a
             className="no_decoration_link footer__text"
-            href="https://elias.eu.org"
+            href="https://cdn.discordapp.com/avatars/254889951173410817/05002d2557a112056d7739ca8eb694b3.png?size=1024"
             target="_blank"
           >
-            {`© 2021 Copyright: Elias Benbourenane - v${version}`}
+            {`© 2022 Copyright: Rafee Maisoon - v${version}`}
           </a>
         </footer>
       </div>
