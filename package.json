@@ -1,7 +1,7 @@
 {
   "name": "libdrive-web",
   "version": "1.4.7",
-  "description": "libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.",
+  "description": "Welcome to Lrone, the one-stop solution to all your media needs. If you need to request anything, contact @RafeeDaBoy",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
