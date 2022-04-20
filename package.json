@@ -30,18 +30,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/libDrive/web.git"
+    "url": ""
   },
-  "author": "Elias Benbourenane <me@elias.eu.org> (https://elias.eu.org)",
+  "author": "Rafee Maisoon",
   "funding": [
     {
-      "type": "ko-fi",
-      "url": "https://ko-fi.com/eliasbenb"
+      "type": "",
+      "url": ""
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/libDrive/libDrive/issues"
+    "url": ""
   },
   "browserslist": {
     "production": [
